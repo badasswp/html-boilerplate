@@ -1,11 +1,12 @@
 # html-boilerplate
+
 A simple HTML boilerplate to get your website project started in seconds.
 
 ## Pre-requisites
 
+- Git
 - Node
 - Yarn
-- Git
 
 ### Node
 
